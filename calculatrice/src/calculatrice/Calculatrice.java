@@ -11,7 +11,7 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
   
-public class Calculatrice extends JFrame {
+public class Calculatrice extends JFrame {// une modification
   private JPanel container = new JPanel();
   //Tableau stockant les éléments à afficher dans la calculatrice
   String[] tab_string = {"1", "2", "3", "4", "5", "6", "7", "8", "9", "0", ".", "=", "C", "+", "-", "*", "/"};
